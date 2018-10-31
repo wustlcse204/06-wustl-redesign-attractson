@@ -468,4 +468,24 @@ display:none;}
 
   }
 
+
+  #effectsam:hover .title {
+  position:static;
+  padding-bottom: 30px;
+  }
+  #effect:hover .title {
+  position:static;
+  padding-bottom: 30px;
+  }
+  #effectolin:hover .title {
+  position:static;
+  padding-bottom: 30px;
+  }
+  #effecteng:hover .title {
+  position:static;
+  padding-bottom: 30px;
+  }
+
+
+
 }
