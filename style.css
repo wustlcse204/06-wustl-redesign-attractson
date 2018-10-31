@@ -434,24 +434,38 @@ display:none;  }
 
 .lifeinfo{
   width:461px;
-  height:auto;
+  height:300px;
 }
 
-.footer *{
-  width:461px;
-  height:auto;
-  font-size: 8px;
-}
 .social{
   margin-left: 10px;
   font: 12px;
   margin-top: -20px;
+  height: 310px;
 }
 
 .media{
 display:none;}
 
+
 .row1{
   display:none;
 }
+
+
+.footer{
+  width:461px;
+  height:auto;
+  font-size: 8px;
+  position: absolute;
+
+}
+.End {
+  width:461px;
+  height:auto;
+  font-size: 8px;
+  position: absolute;
+
+  }
+
 }
